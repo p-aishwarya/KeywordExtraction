@@ -1,0 +1,2059 @@
+Document:
+ access to healthcare is a priority for sanofi . we are helping to improve access in various ways, from r&d to the fight against counterfeiting . we contribute to sustainable development goal 3: ensure healthy lives and promote well-being for all at all ages . we also operate a responsible pricing policy for our medicines to ensure that they are affordable for all (see section 4.2.4, product pricing), and we design and conduct initiatives to assist vulnerable populations .
+
+RAKE Keywords:
+
+responsible pricing policy  9.0
+product pricing ),  9.0
+assist vulnerable populations  9.0
+see section 4  8.0
+ensure healthy lives  8.0
+
+YAKE Keywords:
+
+sustainable development goal  0.0
+assist vulnerable populations  0.0
+ensure healthy lives  0.0
+responsible pricing policy  0.0
+priority for sanofi  0.01
+
+KEYBERT Keywords:
+
+sanofi helping  0.56
+priority sanofi  0.56
+priority sanofi helping  0.57
+sanofi helping improve  0.59
+healthcare priority sanofi  0.77
+
+___________________________________________________________________________________
+
+Document:
+ novo nordisk is one of the largest pharmaceutical companies in the world . the company is based in malaysia, new zealand, nigeria, nigeria and the philippines . indonesia, indonesia, iran, iran and israel are among many of the countries controlled by the group .
+
+RAKE Keywords:
+
+largest pharmaceutical companies  9.0
+novo nordisk  4.0
+new zealand  4.0
+countries controlled  4.0
+among many  4.0
+
+YAKE Keywords:
+
+largest pharmaceutical companies  0.0
+novo nordisk  0.01
+based in malaysia  0.01
+largest pharmaceutical  0.01
+pharmaceutical companies  0.01
+
+KEYBERT Keywords:
+
+pharmaceutical companies world  0.63
+largest pharmaceutical companies  0.65
+novo nordisk  0.72
+nordisk largest pharmaceutical  0.75
+novo nordisk largest  0.77
+
+___________________________________________________________________________________
+
+Document:
+ the remuneration committee of the board of directors determined the . corporate executive committee members bonuses based on the performance 2019 against the . agreed objectives . the . remuneration committee uses complete discretion inthe weighting of each criteria and in the bonus 5.6 stock-settled stock appreciation rights (s-sars) of the other . members of the corporate executive . committee . daniel oday received no bonus payment for 2019 . long as they serve on the corporate . executive committee . the total aggregate amount of bonuses will be brought forward for a binding vote by the annual general meeting 2020 . for drmichael heuer a bonus of chf750,000 is being proposed .
+
+RAKE Keywords:
+
+total aggregate amount  9.0
+daniel oday received  9.0
+drmichael heuer  4.0
+directors determined  4.0
+brought forward  4.0
+
+YAKE Keywords:
+
+corporate executive committee  0.0
+executive committee members  0.0
+committee members bonuses  0.0
+annual general meeting  0.0
+stock-settled stock appreciation  0.0
+
+KEYBERT Keywords:
+
+heuer bonus chf750  0.57
+bonus payment 2019  0.57
+remuneration committee board  0.58
+drmichael heuer bonus  0.6
+committee members bonuses  0.68
+
+___________________________________________________________________________________
+
+Document:
+ independent audits are conducted by internal johnson & johnson regulatory compliance (jjrc) auditors . information security and risk management (isrm) organization, led by our chief information security officer, has global reach with a presence in all regions of the world, and provides ongoing security consulting on relevant policies, procedures and requirements to all johnson and johnson businesses . in 2019, johnson &johnson innovation introduced the johnson & . johnson &. johnson innovation has invested in hundreds of emerging life sciences companies developing healthcare solutions .
+
+RAKE Keywords:
+
+johnson regulatory compliance  7.89
+johnson innovation introduced  7.39
+johnson innovation  4.39
+risk management  4.0
+relevant policies  4.0
+
+YAKE Keywords:
+
+information security officer  0.0
+chief information security  0.0
+ongoing security consulting  0.0
+johnson regulatory compliance  0.0
+information security  0.01
+
+KEYBERT Keywords:
+
+johnson innovation invested  0.57
+regulatory compliance jjrc  0.57
+jjrc auditors information  0.67
+jjrc auditors  0.68
+compliance jjrc auditors  0.69
+
+___________________________________________________________________________________
+
+Document:
+ lilly set aggressive targets for improving energy intensity and thereby reducing our ghg emissions . lilly is an active participant in the u.s. environmental protection agencys (epas) energy star focus on energy efficiency in pharmaceutical manufacturing partnership . we are committed to expanding the scope and quality of related data and disclosures .
+
+RAKE Keywords:
+
+pharmaceutical manufacturing partnership  9.0
+environmental protection agencys  9.0
+improving energy intensity  8.67
+energy star focus  8.67
+energy efficiency  4.67
+
+YAKE Keywords:
+
+environmental protection agencys  0.0
+pharmaceutical manufacturing partnership  0.0
+lilly set aggressive  0.0
+set aggressive targets  0.0
+improving energy intensity  0.0
+
+KEYBERT Keywords:
+
+lilly active participant  0.52
+epas energy  0.52
+emissions lilly active  0.69
+emissions lilly  0.71
+ghg emissions lilly  0.71
+
+___________________________________________________________________________________
+
+Document:
+ novartis busi- ness has merged its human rights and tprm program into one function named human rights & third-party risk man- agement . this will help ensure more effective human rights due diligence in our supply chain and ingrain human rights further into our core business practices and strategies across our markets . since implementing the labor and human rights program in 2015, we have conducted 234 onsite audits in countries identified as high risk for potential human rights violations . the company believes in the dignity of every human being and recognizes international human rights principles embodied in the un global compact and as defined in the united nations universal declaration of human rights .
+
+RAKE Keywords:
+
+un global compact  9.0
+core business practices  9.0
+party risk man  8.5
+ingrain human rights  7.9
+human rights program  7.4
+
+YAKE Keywords:
+
+third-party risk man  0.0
+function named human  0.0
+recognizes international human  0.0
+core business practices  0.0
+united nations universal  0.0
+
+KEYBERT Keywords:
+
+human rights  0.54
+human rights principles  0.55
+human rights tprm  0.56
+human rights core  0.57
+human rights program  0.59
+
+___________________________________________________________________________________
+
+Document:
+ our financial and non-financial reporting consists of the annual report, the finance report and the online report . it covers allregions and divisions of the roche group from 1january to 31 december 2019 . the financial reporting scope is defined and outlined in our finance report, and there have been no significant changes in scope in 2019 compared to 2018 . all entities in the novo nordisk group follow the same group accounting policies . for definitions of segments, please refer to note 2.2 in the consolidated financial statements. sales are attributed to geographical segment based on location of the customer .
+
+RAKE Keywords:
+
+geographical segment based  9.0
+group accounting policies  8.5
+financial reporting consists  8.5
+consolidated financial statements  8.5
+31 december 2019  8.5
+
+YAKE Keywords:
+
+group accounting policies  0.0
+consolidated financial statements  0.0
+financial reporting scope  0.0
+novo nordisk group  0.0
+nordisk group follow  0.0
+
+KEYBERT Keywords:
+
+non financial reporting  0.58
+annual report finance  0.58
+financial reporting  0.6
+financial reporting consists  0.62
+financial reporting scope  0.67
+
+___________________________________________________________________________________
+
+Document:
+ community health units for universal health coverage (chu4uhc) platform to integrate community health workers formally into the health system . novartis, the bill & melinda gates foundation, eli lilly, gsk, johnson & johnson, and pfizer are each now contributing usd 1.5 million .
+
+RAKE Keywords:
+
+melinda gates foundation  9.0
+contributing usd 1  9.0
+universal health coverage  8.67
+community health units  8.67
+health system  4.67
+
+YAKE Keywords:
+
+melinda gates foundation  0.0
+universal health coverage  0.0
+health workers formally  0.0
+community health units  0.0
+integrate community health  0.0
+
+KEYBERT Keywords:
+
+universal health coverage  0.58
+coverage chu4uhc platform  0.58
+health units universal  0.6
+community health units  0.66
+health coverage chu4uhc  0.73
+
+___________________________________________________________________________________
+
+Document:
+ as of 31 december 2019, there is no complete record of all share- holders . this number is slightly higher in 2019 than in years past due to our expanded collaboration with msd-welcome trust hilleman laboratories and our acquisitions of immune design and peloton, tilos therapeutics and calporta in 2019 . as of august 2019, after completion of the global tprm program rollout, the rp program was officially retired . all our business operations worldwide are in scope regardless of their function, unless otherwise stated . data in this report cover the period between january 1, 2019, and december 31, 2019 .
+
+RAKE Keywords:
+
+years past due  9.0
+unless otherwise stated  9.0
+business operations worldwide  9.0
+31 december 2019  6.5
+december 31  5.0
+
+YAKE Keywords:
+
+tprm program rollout  0.0
+years past due  0.0
+msd-welcome trust hilleman  0.0
+trust hilleman laboratories  0.0
+business operations worldwide  0.0
+
+KEYBERT Keywords:
+
+record share holders  0.42
+global tprm  0.42
+rp program officially  0.45
+share holders  0.45
+share holders number  0.46
+
+___________________________________________________________________________________
+
+Document:
+ all contracts are initially recognised at fair value and remeasured at fair at the end of the reporting period . fair value hedges are recognised in the income statement along with any value adjustments of hedged asset or liability that are attribut- able to the hedged risk . s-sars 2019 are blocked for 4 years and may thereafter be exercised only, whilst exercising resulting nes are automatically blocked for additional 4 years (calculation of value of non-voting equity securities in consideration of reduction of value due to additional blocking period of 10 years, reduced market value: 55.839%)
+
+RAKE Keywords:
+
+voting equity securities  9.0
+income statement along  9.0
+additional blocking period  8.5
+reduced market value  8.17
+additional 4 years  7.83
+
+YAKE Keywords:
+
+whilst exercising resulting  0.0
+exercising resulting nes  0.0
+non-voting equity securities  0.0
+additional blocking period  0.0
+whilst exercising  0.01
+
+KEYBERT Keywords:
+
+sars 2019 blocked  0.53
+hedges recognised income  0.56
+value hedges recognised  0.58
+fair value hedges  0.59
+hedged risk sars  0.62
+
+___________________________________________________________________________________
+
+Document:
+ lilly has a formal process for targeting those suppliers that we believe represent the greatest potential hse risk for additional scrutiny . standard contract language also requires that manufacturing suppliers agree to submit, if requested, to audits that assess compliance with the principles . we embrace ethics and transparency, from the way we treat our employees and patients, to our emphasis on human rights and equity . in addition to our core company values, we have established policies that guide employees on how to apply ethics in their day-to-day work from scientific research in the laboratory to interactions with colleagues, healthcare professionals and patients .
+
+RAKE Keywords:
+
+core company values  9.0
+manufacturing suppliers agree  8.0
+scientific research  4.0
+human rights  4.0
+healthcare professionals  4.0
+
+YAKE Keywords:
+
+standard contract language  0.0
+greatest potential hse  0.0
+potential hse risk  0.0
+manufacturing suppliers agree  0.0
+professionals and patients  0.0
+
+KEYBERT Keywords:
+
+assess compliance  0.49
+compliance  0.49
+ethics transparency way  0.49
+ethics transparency  0.5
+employees apply ethics  0.53
+
+___________________________________________________________________________________
+
+Document:
+ management defined by global job level architecture and novartis top leaders . 1 data represent continuing operations. 2 data reflect responsible procurement (rp) and third-party risk management (tprm) 1 data represents continuing operations .
+
+RAKE Keywords:
+
+novartis top leaders  9.0
+party risk management  8.5
+management defined  4.5
+tprm  1.0
+third  1.0
+
+YAKE Keywords:
+
+novartis top leaders  0.01
+global job level  0.01
+job level architecture  0.01
+represent continuing operations  0.01
+data represent continuing  0.01
+
+KEYBERT Keywords:
+
+novartis leaders  0.53
+novartis leaders data  0.58
+risk management tprm  0.59
+management tprm  0.6
+management tprm data  0.61
+
+___________________________________________________________________________________
+
+Document:
+ all of the topics on the matrix below are within the boundaries of our responsibility . we are committed to providing a safe and healthy workplace for our employees and reducing the environmental impact of our operations around the world . we work with policy makers, legislators, multilateral organizations and governments worldwide to ensure that policy and regulatory environments globally, nationally, and locally foster patient access to medicines and vaccines . we strive to create shareholder value by identifying opportunities to meet customer needs and by managing our business responsibly to achieve superior financial results over the long term .
+
+RAKE Keywords:
+
+regulatory environments globally  9.0
+meet customer needs  9.0
+create shareholder value  9.0
+operations around  4.0
+multilateral organizations  4.0
+
+YAKE Keywords:
+
+regulatory environments globally  0.0
+locally foster patient  0.0
+foster patient access  0.0
+achieve superior financial  0.0
+superior financial results  0.0
+
+KEYBERT Keywords:
+
+create shareholder value  0.5
+healthy workplace  0.5
+safe healthy workplace  0.52
+shareholder  0.52
+create shareholder  0.53
+
+___________________________________________________________________________________
+
+Document:
+ all members of the board of directors are registered. dkk 135 million (dkk 142 million in 2018 and dkk 74 million in 2017). the total dividend for 2018 was dkk 8.15 per a and b share of dkk 0.20, corresponding to a payout ratio of 50.6% . board members elected by employees serve for a statutory four-year term and have the same rights, duties and responsibilities as shareholder-elected board members . the competence profile, which includes the nomination criteria, is available at novonordisk.com/about_us .
+
+RAKE Keywords:
+
+dkk 74 million  8.6
+dkk 142 million  8.6
+dkk 135 million  8.6
+elected board members  7.67
+board members elected  7.67
+
+YAKE Keywords:
+
+directors are registered  0.03
+dkk  0.07
+million  0.08
+board members  0.09
+members  0.13
+
+KEYBERT Keywords:
+
+dkk 74 million  0.57
+board directors registered  0.58
+members board directors  0.58
+directors registered dkk  0.61
+dividend 2018 dkk  0.7
+
+___________________________________________________________________________________
+
+Document:
+ underserved refers to populations that are disadvantaged because of ability to pay, ability to access care, or other disparities for reasons of race, religion, language group or social status . erm cvs conducted independent review and assurance of the following information and data in the report (see independent assurance statements) progress against our health for humanity 2020 goals, and associated data have been assured by erm cvs. see independent assurances statements by erm . see independent assurance statement by ercvs.  see independent . assurance statements by the erm. cvs . progress against . our health . for humanity . goals, . associated data, and . associated . data have . been assured .
+
+RAKE Keywords:
+
+humanity 2020 goals  7.0
+underserved refers  4.0
+social status  4.0
+see independent  4.0
+language group  4.0
+
+YAKE Keywords:
+
+conducted independent review  0.02
+independent assurance statements  0.03
+ability to pay  0.04
+assurance statements  0.04
+underserved refers  0.05
+
+KEYBERT Keywords:
+
+cvs independent assurances  0.53
+erm cvs independent  0.56
+assured erm cvs  0.59
+underserved refers populations  0.6
+underserved refers  0.6
+
+___________________________________________________________________________________
+
+Document:
+ the health and safety of our employees is addressed as part of our global health, safety and environment (hse) strategy . efforts to promote health literacy, disease prevention awareness, and the effective use of medicines . at lilly, employee safety is managed by our health, safety and environment team . our global safety program is designed to drive a proactive safety culture and reinforce the link between our leadership behaviors and our safety and environmental objectives. we realize that the journey toward safety excellence never ends and we are constantly evaluating approaches to improve our programs and to integrate injury prevention into everyday work.
+
+RAKE Keywords:
+
+integrate injury prevention  9.0
+disease prevention awareness  9.0
+constantly evaluating approaches  9.0
+promote health literacy  7.75
+proactive safety culture  7.71
+
+YAKE Keywords:
+
+promote health literacy  0.0
+disease prevention awareness  0.0
+proactive safety culture  0.01
+global safety program  0.01
+environment team  0.01
+
+KEYBERT Keywords:
+
+employee safety  0.71
+health safety  0.72
+employee safety managed  0.73
+lilly employee safety  0.73
+health safety employees  0.75
+
+___________________________________________________________________________________
+
+Document:
+ the number of employees is recorded as all employees except externals, employees on unpaid leave, interns, bachelor and master thesis employees and substitutes at year-end . 95% of sales and marketing employees completed the health care compliance training . 97% of employees believe they are held accountable for adhering to the highest quality and compliance standards . 100% of senior leaders certified the compliance of their organizations with the code of business conduct . sustainability is featured as one of four high-level global policies in our code of ethics .
+
+RAKE Keywords:
+
+senior leaders certified  9.0
+level global policies  9.0
+master thesis employees  8.17
+marketing employees completed  8.17
+employees except externals  8.17
+
+YAKE Keywords:
+
+care compliance training  0.0
+senior leaders certified  0.0
+high-level global policies  0.0
+health care compliance  0.0
+master thesis employees  0.0
+
+KEYBERT Keywords:
+
+certified compliance organizations  0.53
+leaders certified compliance  0.54
+compliance organizations  0.55
+compliance organizations code  0.56
+health care compliance  0.56
+
+___________________________________________________________________________________
+
+Document:
+ the part of total assets that remains unallocated to either of the two business segments includes investments in associated companies, deferred income tax assets, other financial assets, tax 2018 net deferred tax asset/(liability) at 1 january . the tax value of tax loss carry-forwards is included in deferred tax assets to the extent that these are expected to be utilised in future taxable income . novo nordisk is subject to income taxes around the world .
+
+RAKE Keywords:
+
+income taxes around  9.0
+future taxable income  9.0
+tax loss carry  8.67
+deferred tax assets  8.0
+tax value  4.67
+
+YAKE Keywords:
+
+business segments includes  0.0
+segments includes investments  0.0
+net deferred tax  0.0
+tax loss carry-forwards  0.0
+future taxable income  0.0
+
+KEYBERT Keywords:
+
+tax assets  0.55
+deferred tax asset  0.58
+deferred tax assets  0.61
+income novo nordisk  0.63
+taxable income novo  0.66
+
+___________________________________________________________________________________
+
+Document:
+ our practices are informed and guided by the pharmaceutical supply chain initiatives (pscis) pharmaceutical industry principles for responsible supply chain management . the psci principles provide our industry with consistent supplier performance standards in the areas of ethics, labor, health and safety, the environment and related management systems . at lilly, we have aligned several codes, policies and procedures with the psci principles, including the following: collaborating across industry . the novartis third-party code (for- merly the supplier code) sets out our expectations for our third parties . the principles outline industry expectations for external manufacturers and licensees .
+
+RAKE Keywords:
+
+related management systems  9.0
+aligned several codes  9.0
+collaborating across industry  8.33
+psci principles provide  8.17
+pharmaceutical industry principles  8.0
+
+YAKE Keywords:
+
+supply chain initiatives  0.0
+novartis third-party code  0.0
+psci principles provide  0.0
+responsible supply chain  0.0
+pharmaceutical supply chain  0.0
+
+KEYBERT Keywords:
+
+principles responsible supply  0.6
+supply chain  0.62
+supplier code  0.62
+responsible supply chain  0.64
+pharmaceutical supply chain  0.72
+
+___________________________________________________________________________________
+
+Document:
+ risk management is embedded at all levels of the group . the effectiveness of the risk management process is monitored by the group risk advisory team . financial risk management is specifically described in the finance report . the updated enterprise risk management framework is now available on our website .
+
+RAKE Keywords:
+
+risk management process  8.33
+financial risk management  8.33
+risk management  5.33
+specifically described  4.0
+finance report  4.0
+
+YAKE Keywords:
+
+financial risk management  0.0
+risk advisory team  0.0
+risk management process  0.0
+enterprise risk management  0.0
+risk management framework  0.0
+
+KEYBERT Keywords:
+
+risk management  0.68
+risk management specifically  0.68
+risk management framework  0.71
+risk management embedded  0.71
+enterprise risk management  0.76
+
+___________________________________________________________________________________
+
+Document:
+ research and development costs primarily comprise employee costs, internal and external costs related to execution of studies . costs also comprise amortisation, depreciation and impairment losses related to software and property, plant and equipment used in the research and development activities . at lilly, we strive to embed environmental innovation early in the product development lifecycle through our focus on green chemistry and end-product engineering . we use the 12 principles of green chemistry, environmental risk assessments, packaging manufacturing reviews and an environmental development review process to evaluate potential environmental impacts during the scale-up of human health pharmaceutical production to manufacturing levels .
+
+RAKE Keywords:
+
+impairment losses related  9.0
+external costs related  9.0
+environmental risk assessments  9.0
+packaging manufacturing reviews  8.5
+product development lifecycle  8.0
+
+YAKE Keywords:
+
+impairment losses related  0.0
+packaging manufacturing reviews  0.0
+human health pharmaceutical  0.0
+health pharmaceutical production  0.0
+environmental risk assessments  0.0
+
+KEYBERT Keywords:
+
+chemistry environmental risk  0.54
+environmental innovation  0.55
+reviews environmental development  0.57
+green chemistry environmental  0.58
+manufacturing reviews environmental  0.61
+
+___________________________________________________________________________________
+
+Document:
+ explanation of the material topic, its boundary, how the topic is managed, and mechanisms for evaluating the effectiveness of the companys strategy . explanation for evaluating effectiveness of the companyys strategy is explained .
+
+RAKE Keywords:
+
+companyys strategy  4.0
+companys strategy  4.0
+material topic  3.5
+evaluating effectiveness  3.0
+topic  1.5
+
+YAKE Keywords:
+
+evaluating effectiveness  0.01
+mechanisms for evaluating  0.01
+material topic  0.01
+companys strategy  0.01
+explanation for evaluating  0.02
+
+KEYBERT Keywords:
+
+companyys strategy  0.67
+effectiveness companyys strategy  0.69
+companys strategy  0.7
+companys strategy explanation  0.73
+companyys strategy explained  0.74
+
+___________________________________________________________________________________
+
+Document:
+ sales of biopharm products increased by 7% measured in danish kroner and by 4% at cer to dkk 19,181 million . sales of glp-1 therapy for type 2 diabetes increased by 27% . novoeight has now been launched in 52 countries . sales growth in international operations was driven by region latin america, region aameo, region china and region japan & korea . sales in north america operations offset by declining sales in region europe .
+
+RAKE Keywords:
+
+biopharm products increased  9.0
+region latin america  8.2
+region japan  4.2
+region europe  4.2
+region china  4.2
+
+YAKE Keywords:
+
+biopharm products increased  0.0
+north america operations  0.0
+america operations offset  0.0
+region latin america  0.0
+therapy for type  0.01
+
+KEYBERT Keywords:
+
+sales glp therapy  0.54
+sales growth international  0.54
+biopharm products increased  0.57
+sales biopharm  0.65
+sales biopharm products  0.68
+
+___________________________________________________________________________________
+
+Document:
+ in 2019, lilly scored a rating of b on climate change and b on water from cdp, the worlds largest repository of environmental management information . we exceeded two of our 2020 environmental goals15 percent reduction in phosphorous emissions and 20 percent improvement in waste efficiencyand we are developing our next set of targets, to be announced in 2020 . the new design has reduced polyester usage by approximately 1,000tonnes per annum. moreover, new packaging bundles and configurations have improved the pack density by 3545% allowing more products to be shipped on skids and in tertiary containers. this reduces the distribution cost and environmental impact .
+
+RAKE Keywords:
+
+worlds largest repository  9.0
+reduced polyester usage  9.0
+20 percent improvement  9.0
+000tonnes per annum  9.0
+new packaging bundles  8.5
+
+YAKE Keywords:
+
+worlds largest repository  0.0
+reduced polyester usage  0.0
+environmental management information  0.01
+percent reduction  0.01
+percent improvement  0.01
+
+KEYBERT Keywords:
+
+environmental goals15 percent  0.48
+environmental goals15  0.5
+2019 lilly  0.5
+2020 environmental  0.53
+2020 environmental goals15  0.56
+
+___________________________________________________________________________________
+
+Document:
+ sales increased by 1%, driven by north america (+15%), sales growth mainly came from the accu-chek guide product line . the acquisition relates to the diabetes and obesity care segment . novo nordisk has entered into a collaboration and license agreement providing development and commercialisation rights to novel therapies for the treatment of liver-related cardio-metabolic diseases using dicernas proprietary galxc rnai platform technology . depreciation, amortisation and impairment losses are expected to be around dkk 5 billion .
+
+RAKE Keywords:
+
+obesity care segment  9.0
+1 %, driven  9.0
+sales increased  4.0
+related cardio  4.0
+novo nordisk  4.0
+
+YAKE Keywords:
+
+guide product line  0.0
+obesity care segment  0.0
+rnai platform technology  0.0
+accu-chek guide product  0.0
+license agreement providing  0.0
+
+KEYBERT Keywords:
+
+nordisk entered collaboration  0.5
+dicernas proprietary  0.53
+segment novo nordisk  0.53
+novo nordisk entered  0.59
+novo nordisk  0.62
+
+___________________________________________________________________________________
+
+Document:
+ novo nordisk introduced four long-term financial targets in 1996 . the targets were subsequently revised and updated on several occasions, most recently in the annual report for 2018 released in february 2019 . we hold ourselves accountable for progress towards each and all of them, and in the following pages we elaborate on the new aspirations . in 2019, again roche invested almost a fifth of its annual sales in r&d. this follows on investments of ofasimilar ratio in previous years to provide new therapies, diagnostic tests and services to people in need . we also make sure that our employee benefit plans are designed for the long term .
+
+RAKE Keywords:
+
+roche invested almost  9.0
+employee benefit plans  9.0
+also make sure  9.0
+provide new therapies  8.5
+term financial targets  7.5
+
+YAKE Keywords:
+
+novo nordisk introduced  0.0
+employee benefit plans  0.0
+long-term financial targets  0.0
+released in february  0.0
+novo nordisk  0.0
+
+KEYBERT Keywords:
+
+nordisk introduced long  0.52
+novo  0.53
+nordisk introduced  0.53
+novo nordisk  0.64
+novo nordisk introduced  0.7
+
+___________________________________________________________________________________
+
+Document:
+ dkk 135 million (dkk 142 million in 2018 and dkk 74 million in 2017). all members of the board of directors are registered . a 5% depreciation of usd against all other currencies at 31 december 2019 would affect equity by dkk 1,298 million . fees for services other than statutory audit of the financial statements amount to dkk 19 million . dkk 595 million classified as financing activities (2018: dkk 506 million) bank overdrafts includes dkk . 595m classified as . financing activities . and  dkk 64m of cash and cash equivalents classified as cash and . cash equivalents .
+
+RAKE Keywords:
+
+financial statements amount  9.0
+dkk 74 million  8.55
+dkk 506 million  8.55
+dkk 19 million  8.55
+dkk 142 million  8.55
+
+YAKE Keywords:
+
+dkk  0.02
+million  0.02
+overdrafts includes dkk  0.03
+million classified  0.05
+financing activities  0.05
+
+KEYBERT Keywords:
+
+financing activities dkk  0.62
+financial statements dkk  0.62
+dkk 135 million  0.62
+dkk 506 million  0.62
+equity dkk 298  0.63
+
+___________________________________________________________________________________
+
+Document:
+ lilly's water intake is the total amount of water coming into a site, including water pumped from bodies of surface water and groundwater, as well as water provided by a utility . data includes energy from combustion of coal, fuel oil, natural gas and liquid propane . manufacturing operations account for the majority of the water used by lilly . manufacturing locations that produce injectable medicines require exceptionally high-quality water, while utility operations use water for cooling and to support steam boilers . we are also working to identify hot spots of water use within our supply chain so that we can engage with our suppliers on the issue of water risk .
+
+RAKE Keywords:
+
+support steam boilers  9.0
+identify hot spots  9.0
+data includes energy  9.0
+manufacturing operations account  8.5
+water use within  8.22
+
+YAKE Keywords:
+
+manufacturing operations account  0.0
+data includes energy  0.0
+support steam boilers  0.0
+produce injectable medicines  0.0
+injectable medicines require  0.0
+
+KEYBERT Keywords:
+
+lilly water  0.59
+water used lilly  0.63
+operations use water  0.63
+water use supply  0.65
+lilly water intake  0.71
+
+___________________________________________________________________________________
+
+Document:
+ to ensure year-on-year  if a site is acquired, it must start reporting in the month when it joins the sanofi scope of consolidation . depreciation and impairment losses at the beginning of the year depreciation for the year impairment losses reversed on disposals during the year effect of exchange rate adjustment .
+
+RAKE Keywords:
+
+must start reporting  9.0
+exchange rate adjustment  9.0
+sanofi scope  4.0
+impairment losses  4.0
+year effect  3.75
+
+YAKE Keywords:
+
+exchange rate adjustment  0.0
+year impairment losses  0.0
+impairment losses reversed  0.0
+impairment losses  0.0
+site is acquired  0.01
+
+KEYBERT Keywords:
+
+year depreciation  0.61
+consolidation depreciation impairment  0.61
+beginning year depreciation  0.61
+depreciation impairment losses  0.61
+depreciation year impairment  0.67
+
+___________________________________________________________________________________
+
+Document:
+ the regional organization will prioritize driving access to medicines and help- ing reach more patients across income levels, in addition to traditional business metrics, such as profits and margins . novartis is actively combating falsified and counterfeit medicines, and scaling up efforts to protect patients taking our medicines . astrazeneca has a variety of medicines available in the pipeline and we recognise the positive societal benefits these medicines can have for patients . in 2019, we have worked to advance our approach and identify innovations . we engage in activities aimed to: combating falsified and counterfeit medicines .
+
+RAKE Keywords:
+
+traditional business metrics  9.0
+prioritize driving access  9.0
+positive societal benefits  9.0
+protect patients taking  8.0
+actively combating falsified  8.0
+
+YAKE Keywords:
+
+actively combating falsified  0.0
+traditional business metrics  0.0
+prioritize driving access  0.0
+positive societal benefits  0.0
+protect patients taking  0.0
+
+KEYBERT Keywords:
+
+astrazeneca  0.62
+taking medicines astrazeneca  0.64
+astrazeneca variety medicines  0.68
+medicines astrazeneca variety  0.68
+medicines astrazeneca  0.71
+
+___________________________________________________________________________________
+
+Document:
+ novo nordisk had four product recalls from the market in 2019, compared with three in 2018 . "patients safety and product quality are our top priorities. we maintain a robust quality system with harmonized pro- cesses and procedures" "we apply and adhere to a strict set of quality standards, and we have policies and procedures in place to identify, measure, control and sustain product-quality excellence," says nordisk . "we strive to achieve world-class supplier reliability as part of our commitment to product quality"
+
+RAKE Keywords:
+
+class supplier reliability  9.0
+robust quality system  8.25
+four product recalls  8.25
+product quality  4.5
+product quality  4.5
+
+YAKE Keywords:
+
+patients safety  0.01
+top priorities  0.01
+novo nordisk  0.02
+product quality  0.03
+product recalls  0.03
+
+KEYBERT Keywords:
+
+product recalls market  0.6
+product recalls  0.61
+novo nordisk  0.62
+novo nordisk product  0.7
+nordisk product recalls  0.74
+
+___________________________________________________________________________________
+
+Document:
+ lilly aims to reach 30 million people in resource-limited settings annually by 2030 . this ambitious goal is backed by an initial $90 million investment from the company and the lilly foundation to fund global health programs through 2022 . an estimated 2.9 million people were treated with insulin under this commitment in 2019, of which approximately 200,000 people were reached through sales to humanitarian organisations . as of 2019, the guarantee is expanded to include an additional 29 middle-income countries . the best way for people to access lilly medicines during a crisis is through their normal pharmacy . sometimes, conditions force some pharmacies to close, sometimes some pharmacies close .
+
+RAKE Keywords:
+
+limited settings annually  9.0
+additional 29 middle  9.0
+90 million investment  9.0
+access lilly medicines  8.33
+9 million people  8.0
+
+YAKE Keywords:
+
+resource-limited settings annually  0.0
+fund global health  0.0
+global health programs  0.0
+access lilly medicines  0.0
+million people  0.0
+
+KEYBERT Keywords:
+
+insulin commitment 2019  0.51
+lilly medicines  0.54
+lilly foundation fund  0.58
+access lilly medicines  0.63
+lilly medicines crisis  0.65
+
+___________________________________________________________________________________
+
+Document:
+ environment environmental protection at sanofi comes within the overall scope of our health, safety and environment (hse) approach, as described in section 4.2.2, employee health and safety . in 2019, 2 309 complaints of alleged misconduct, with a total of 2 820 alle ga- tions, were made . 26% were self-identi- fied (monitoring) and 74% came from speakup .
+
+RAKE Keywords:
+
+sanofi comes within  9.0
+environment environmental protection  8.0
+2 309 complaints  7.67
+section 4  4.0
+overall scope  4.0
+
+YAKE Keywords:
+
+environment environmental protection  0.0
+complaints of alleged  0.01
+alleged misconduct  0.01
+employee health  0.02
+environmental protection  0.02
+
+KEYBERT Keywords:
+
+environment environmental protection  0.55
+environment hse approach  0.56
+environment hse  0.61
+safety environment hse  0.63
+environmental protection sanofi  0.65
+
+___________________________________________________________________________________
+
+Document:
+ lilly generates both nonhazardous and hazardous waste from its manufacturing processes . 18% of the waste is categorised as hazardous waste, a decrease from 21% in 2018 . the reuse/recycle/recovery rate used for the planet mobilization project is defined as the sum total of waste recycled externally plus waste subject to energy recovery .
+
+RAKE Keywords:
+
+planet mobilization project  9.0
+recovery rate used  8.5
+energy recovery  4.5
+sum total  4.0
+manufacturing processes  4.0
+
+YAKE Keywords:
+
+planet mobilization project  0.0
+waste recycled externally  0.0
+lilly generates  0.01
+manufacturing processes  0.01
+hazardous waste  0.01
+
+KEYBERT Keywords:
+
+hazardous waste manufacturing  0.54
+waste manufacturing  0.56
+nonhazardous hazardous waste  0.58
+total waste recycled  0.59
+waste recycled  0.59
+
+___________________________________________________________________________________
+
+Document:
+ in more than 80 low- to middle-income countries the global access program supports efforts to fight infectious diseases . roches participation in the wfh humanitarian aid program consists of a donation of hemlibra and funding to support the wfp programs integrated care development training . more than three quarters of ncd deaths 32 millionoccur in low- and middle- income countries, where we have deep technical expertise . an estimated 2.9 million people were treated with insulin under this commitment in 2019, of which approximately 200,000 people were reached through sales to humanitarian organisations . scope of access to insulin commitment expanded in 2019 to also include middle income countries and selected organisations providing humanitarian relief .
+
+RAKE Keywords:
+
+fight infectious diseases  9.0
+deep technical expertise  9.0
+9 million people  8.5
+insulin commitment expanded  7.0
+000 people  4.5
+
+YAKE Keywords:
+
+fight infectious diseases  0.0
+care development training  0.0
+deep technical expertise  0.0
+integrated care development  0.0
+providing humanitarian relief  0.0
+
+KEYBERT Keywords:
+
+humanitarian aid program  0.54
+access insulin commitment  0.55
+insulin commitment 2019  0.55
+diseases roches participation  0.57
+wfh humanitarian aid  0.58
+
+___________________________________________________________________________________
+
+Document:
+ sales in the pharmaceuticals division increased by 11% to chf 48.5 billion . key growth drivers were the multiple sclerosis medicine ocrevus, the new haemophilia medicine hemlibra and cancermedicines tecentriq and perjeta . roche is successfully entering new disease areas, providing important new treatments for people with severe conditions, including multiple sclerosis . roche also covers ailments of the central nervous system, inflammatory bowel disease and several rare diseases . at any time, established or new competitors may bring new products to market or obtain label change for marketed products, leading to increased competition .
+
+RAKE Keywords:
+
+several rare diseases  9.0
+obtain label change  9.0
+key growth drivers  9.0
+inflammatory bowel disease  9.0
+including multiple sclerosis  9.0
+
+YAKE Keywords:
+
+including multiple sclerosis  0.0
+key growth drivers  0.0
+central nervous system  0.0
+sclerosis medicine ocrevus  0.0
+obtain label change  0.0
+
+KEYBERT Keywords:
+
+roche successfully  0.53
+sclerosis medicine ocrevus  0.55
+multiple sclerosis medicine  0.55
+sclerosis roche  0.56
+multiple sclerosis roche  0.63
+
+___________________________________________________________________________________
+
+Document:
+ novo nordisk does not expect the lawsuits to have a material impact on its financial position, operating profit or cash flow . all pending matters allege that the manufacturers and pharmacy benefit managers (pbms) colluded to artificially inflate list prices paid by consumers for diabetes products, while offering reduced prices to pbms through rebates used to secure formulary access . the lawsuit alleges that novo . nordisk made misleading statements and did not make appropriate disclosures regarding its sales of insulin products in the us . novo. nordisk is one of several pharmaceutical companies that received requests for information involving pricing practices for its diabetes .
+
+RAKE Keywords:
+
+several pharmaceutical companies  9.0
+secure formulary access  9.0
+pharmacy benefit managers  9.0
+pending matters allege  9.0
+offering reduced prices  9.0
+
+YAKE Keywords:
+
+pharmacy benefit managers  0.0
+secure formulary access  0.0
+pending matters allege  0.0
+artificially inflate list  0.0
+made misleading statements  0.0
+
+KEYBERT Keywords:
+
+pricing practices diabetes  0.61
+products novo nordisk  0.64
+nordisk pharmaceutical companies  0.64
+novo nordisk pharmaceutical  0.65
+novo nordisk misleading  0.69
+
+___________________________________________________________________________________
+
+Document:
+ the way that medicines are paid for in the current healthcare system can seem confusing . sanofi provides personalized employee benefit programs
+
+RAKE Keywords:
+
+current healthcare system  9.0
+seem confusing  4.0
+way  1.0
+paid  1.0
+medicines  1.0
+
+YAKE Keywords:
+
+employee benefit programs  0.0
+current healthcare system  0.0
+personalized employee benefit  0.0
+sanofi provides personalized  0.02
+benefit programs  0.02
+
+KEYBERT Keywords:
+
+confusing sanofi provides  0.56
+way medicines paid  0.56
+medicines paid current  0.59
+medicines paid  0.6
+healthcare confusing sanofi  0.72
+
+___________________________________________________________________________________
+
+Document:
+ company- sponsored and -conducted clinical trials involving patients assigned treatment with investigational and marketed products are registered at trial initiation on www.clinicaltrials.gov . for phase 2 and phase 3 trials that complete in 2019 and beyond, lilly submits results one year after the completion of the trial regardless of the medicines approval status . clinical trials may also be carried out post- marketing to develop new indications for a drug, or monitor its safety . sanofi systematically aligns on the most exacting standards of good pharmacovigilance practices. sanofi is working to develop a oz439/ferroquine association .
+
+RAKE Keywords:
+
+medicines approval status  9.0
+good pharmacovigilance practices  9.0
+phase 3 trials  8.5
+sanofi systematically aligns  8.0
+develop new indications  8.0
+
+YAKE Keywords:
+
+lilly submits results  0.0
+medicines approval status  0.0
+good pharmacovigilance practices  0.0
+conducted clinical trials  0.0
+involving patients assigned  0.0
+
+KEYBERT Keywords:
+
+conducted clinical trials  0.6
+clinical trials involving  0.61
+clinical trials carried  0.62
+clinical trials  0.63
+status clinical trials  0.65
+
+___________________________________________________________________________________
+
+Document:
+ our global inclusion and diversity council comprises senior and rising leaders from across our company . the council oversees the implementation of our inclusion and diversity strategy through our worldwide plans and global policies . we value global diversity and inclusion at every level of the organization and strive for inclusiveness in every aspect of work . at johnson & johnson all employees are encouraged to draw on their unique experiences and backgrounds so that together we can spark solutions that create a better, healthier world . we do not tolerate discrimination, harassment or bullying, and provide various training courses on this policy, including within our code of business conduct training .
+
+RAKE Keywords:
+
+business conduct training  9.0
+value global diversity  7.83
+diversity strategy  4.5
+global policies  4.33
+worldwide plans  4.0
+
+YAKE Keywords:
+
+diversity council comprises  0.0
+council comprises senior  0.0
+business conduct training  0.0
+healthier world  0.0
+harassment or bullying  0.0
+
+KEYBERT Keywords:
+
+diversity inclusion level  0.64
+diversity inclusion  0.65
+global inclusion diversity  0.67
+global diversity inclusion  0.68
+inclusion diversity council  0.68
+
+___________________________________________________________________________________
+
+Document:
+ the world economic forums "global risks report 2020," the 15th such report, notes that for the first time in the history of the survey environmental concerns dominate the top long-term risks . environmental matters are managed by katarina ageborg, executive vice-president, sustainability and chief compliance officer, president astrazeneca ab, sweden . the guide for our environmental management system (ems) our global safety, health and environment (she) management principles is embedded in our code of ethics. our approach is set globally and implemented locally at our sites in partnership across functions. see our position on impact of pharmaceuticals and personal care products in the environment .
+
+RAKE Keywords:
+
+world economic forums  9.0
+personal care products  9.0
+partnership across functions  9.0
+chief compliance officer  9.0
+president astrazeneca ab  8.0
+
+YAKE Keywords:
+
+global risks report  0.0
+environmental management system  0.0
+world economic forums  0.0
+chief compliance officer  0.0
+survey environmental concerns  0.0
+
+KEYBERT Keywords:
+
+environmental concerns  0.62
+term risks environmental  0.65
+global risks report  0.66
+risks environmental  0.69
+risks environmental matters  0.72
+
+___________________________________________________________________________________
+
+Document:
+ lilly's 2019 co2 emissions are stable versus 2018; the year-on-year difference is not meaningful given the uncertainties inherent in the many assumptions underlying the calculations . our scope 3 ghg emissions impacts are nearly three times greater than our combined scope 1 and scope 2 emissions . we are working to reduce those impacts through activities such as reducing waste in our operations, reducing fuel use and looking for opportunities to shift from air shipping to ocean transport . lilly launched an initial public offering (ipo) of elanco animal health incorporated in september 2018, and divested its remaining interest in elanco in march 2019, making it an independent, publicly traded company .
+
+RAKE Keywords:
+
+scope 2 emissions  9.0
+publicly traded company  9.0
+many assumptions underlying  9.0
+initial public offering  9.0
+combined scope 1  9.0
+
+YAKE Keywords:
+
+publicly traded company  0.0
+initial public offering  0.0
+animal health incorporated  0.0
+elanco animal health  0.0
+ghg emissions impacts  0.0
+
+KEYBERT Keywords:
+
+lilly launched  0.5
+elanco animal health  0.5
+lilly 2019  0.51
+2019 co2 emissions  0.56
+lilly 2019 co2  0.64
+
+___________________________________________________________________________________
+
+Document:
+ 30 cities in the program have been trained, and have committed to implementing at least one climate action relating to air quality improvements and health co-benefits . air pollution is responsible for an estimated 25% of all adult deaths from heart disease and stroke, 43% from chronic obstructive pulmonary disease and 29% from lung cancer . in africa, air pollution causes about 780,000 premature deaths per year .
+
+RAKE Keywords:
+
+air quality improvements  8.67
+air pollution causes  8.17
+air pollution  5.17
+lung cancer  4.0
+heart disease  4.0
+
+YAKE Keywords:
+
+obstructive pulmonary disease  0.0
+climate action relating  0.0
+chronic obstructive pulmonary  0.0
+air quality improvements  0.0
+air pollution  0.01
+
+KEYBERT Keywords:
+
+air pollution causes  0.61
+benefits air pollution  0.65
+air pollution  0.66
+air pollution responsible  0.68
+africa air pollution  0.72
+
+___________________________________________________________________________________
+
+Document:
+ this is also the 15th consecutive year in which lilly has been recognized by energy star for excellence in energy management . lilly set aggressive targets for improving energy intensity and thereby reducing our ghg emissions . we strive to make our facilities more energy-efficient through our energy-management programs and to improve the fuel efficiency of our fleet vehicles . by making these improvements, we also reduce emissions of co2, nox, sox and vocs from our operations .
+
+RAKE Keywords:
+
+15th consecutive year  9.0
+improving energy intensity  7.8
+also reduce emissions  7.5
+ghg emissions  4.5
+thereby reducing  4.0
+
+YAKE Keywords:
+
+set aggressive targets  0.0
+lilly set aggressive  0.0
+improving energy intensity  0.0
+consecutive year  0.01
+fleet vehicles  0.01
+
+KEYBERT Keywords:
+
+lilly recognized  0.52
+management lilly set  0.55
+management lilly  0.59
+lilly recognized energy  0.67
+energy management lilly  0.78
+
+___________________________________________________________________________________
+
+Document:
+ manufacturing operations account for the majority of the water used by lilly . manufacturing locations that produce injectable medicines require exceptionally high-quality water . our on-site and off-site wastewater treatment methods are designed to protect the local environment . at our juarez facility in mexico, we installed a biological treatment plant with a capacity of 75m per day to give a second life to gray water, manufacturing process water, cafeteria food preparation process water and discharge water from organic waste processing . in 2018, we surpassed our 2020 total wastewater phosphorus emission reduction goal . in 2019, lilly professionals developed and delivered a webinar on appropriate wastewater stewardship and in 2018, supported supplier capability training in china and india .
+
+RAKE Keywords:
+
+organic waste processing  9.0
+biological treatment plant  9.0
+appropriate wastewater stewardship  9.0
+75m per day  9.0
+manufacturing operations account  8.67
+
+YAKE Keywords:
+
+manufacturing operations account  0.0
+cafeteria food preparation  0.0
+organic waste processing  0.0
+emission reduction goal  0.0
+supported supplier capability  0.0
+
+KEYBERT Keywords:
+
+wastewater stewardship  0.57
+wastewater treatment  0.58
+appropriate wastewater stewardship  0.58
+appropriate wastewater  0.59
+wastewater stewardship 2018  0.61
+
+___________________________________________________________________________________
+
+Document:
+ lilly uses the following hierarchy of approaches to disposition of waste generated across our operations: waste (tonnes) hazardous waste incinerated with thermal recovery and incinerated without thermal recovery . growing production levels have generated increased waste volumes of both hazardous and non-hazardous waste . as production levels are projected to continue to grow, achieving our total 10% reduction target will be a challenge . the global environmental remediation group won the leading in she category for its safe process to remove decommissioned structures once used by a legacy company to help boats transport chemicals on the ohio river .
+
+RAKE Keywords:
+
+remove decommissioned structures  9.0
+waste generated across  8.25
+growing production levels  8.0
+hazardous waste incinerated  7.25
+production levels  5.0
+
+YAKE Keywords:
+
+growing production levels  0.0
+global environmental remediation  0.0
+environmental remediation group  0.0
+remediation group won  0.0
+remove decommissioned structures  0.0
+
+KEYBERT Keywords:
+
+approaches disposition waste  0.62
+waste production  0.63
+hazardous waste incinerated  0.64
+waste production levels  0.64
+hazardous waste production  0.64
+
+___________________________________________________________________________________
+
+Document:
+ the world economic forums "global risks report 2020," the 15th such report, notes that for the first time in the history of the global risks perception survey, environmental concerns dominate the top long-term risks . novartis aims to address our environmental impacts from the beginning of our research process to cross-sector collaborations for improved planetary health . by contributing to a healthy planet, we can improve the health of people, says dr. john defterios . the big challenge is getting over the initial hurdle and discomfort that patients, actually all of us, have about big companies using our data, he says .
+
+RAKE Keywords:
+
+world economic forums  9.0
+environmental concerns dominate  8.5
+big companies using  8.5
+improved planetary health  8.0
+environmental impacts  4.5
+
+YAKE Keywords:
+
+global risks report  0.0
+risks perception survey  0.0
+global risks perception  0.0
+world economic forums  0.0
+top long-term risks  0.0
+
+KEYBERT Keywords:
+
+global risks  0.64
+risks report 2020  0.65
+global risks report  0.69
+risks novartis  0.73
+risks novartis aims  0.74
+
+___________________________________________________________________________________
+
+Document:
+ novartis is committed to playing a pos- itive and constructive role in society . we are focused on building a company that our customers, associates, share- holders and partners can all be proud of . we aim to discover and develop breakthrough treatments that
+
+RAKE Keywords:
+
+develop breakthrough treatments  9.0
+constructive role  4.0
+society  1.0
+share  1.0
+proud  1.0
+
+YAKE Keywords:
+
+develop breakthrough treatments  0.0
+novartis is committed  0.01
+playing a pos  0.01
+itive and constructive  0.01
+role in society  0.01
+
+KEYBERT Keywords:
+
+develop breakthrough  0.48
+develop breakthrough treatments  0.48
+novartis committed playing  0.52
+novartis committed  0.64
+novartis  0.7
+
+___________________________________________________________________________________
+
+Document:
+ this shows the priority topic and relevant page number(s) within the nis report, the gh&cr strategic pillar the topic sits within, and the mapping rationale . the mapping exercise is detailed in the table on the following page. our responsibilities our responsibility is to form an independent opinion, based on our limited assurance procedures, on whether anything has come to our attention to indicate that the gh/cr indicators are not stated, in all material respects, in accordance with the reporting criteria. in addition, with the increasing focus on the uk modern slavery act (which is also gaining traction in other countries, such as australia) and the responsible business initiative in switzerland, we have defined human rights as a key focus .
+
+RAKE Keywords:
+
+responsible business initiative  9.0
+limited assurance procedures  9.0
+defined human rights  9.0
+also gaining traction  9.0
+relevant page number  8.5
+
+YAKE Keywords:
+
+relevant page number  0.0
+mapping rationale  0.01
+page number  0.01
+mapping exercise  0.01
+priority topic  0.01
+
+KEYBERT Keywords:
+
+slavery act  0.46
+nis report gh  0.48
+human rights key  0.54
+defined human rights  0.56
+human rights  0.56
+
+___________________________________________________________________________________
+
+Document:
+ there is increased pressure for companies to adopt the eu general data protection regulation compliance (gdpr) as the basis for their own privacy laws and regulations . sanofi collaborated widely across its organization to become compliant with the new california consumer privacy act .
+
+RAKE Keywords:
+
+privacy laws  4.0
+increased pressure  4.0
+become compliant  4.0
+regulations  1.0
+organization  1.0
+
+YAKE Keywords:
+
+sanofi collaborated widely  0.0
+protection regulation compliance  0.0
+consumer privacy act  0.0
+general data protection  0.0
+data protection regulation  0.0
+
+KEYBERT Keywords:
+
+regulations sanofi collaborated  0.58
+compliance gdpr basis  0.59
+data protection regulation  0.59
+compliance gdpr  0.64
+regulation compliance gdpr  0.66
+
+___________________________________________________________________________________
+
+Document:
+ roche is building on the considerable data protection expertise it has gained over several decades . johnson & johnson is committed to protecting its
+
+RAKE Keywords:
+
+several decades  4.0
+roche  1.0
+protecting  1.0
+johnson  1.0
+johnson  1.0
+
+YAKE Keywords:
+
+considerable data protection  0.01
+data protection expertise  0.01
+roche is building  0.02
+considerable data  0.03
+data protection  0.03
+
+KEYBERT Keywords:
+
+considerable data protection  0.49
+johnson committed protecting  0.49
+roche  0.5
+data protection expertise  0.5
+roche building considerable  0.5
+
+___________________________________________________________________________________
+
+Document:
+ the company trust score, measured on a scale of 0-100, decreased to 78.2 from 84.5 in 2018 . the decline in trust is not unique to novo nordisk, but is a trend across the pharma sector .
+
+RAKE Keywords:
+
+company trust score  8.0
+trend across  4.0
+pharma sector  4.0
+novo nordisk  4.0
+trust  2.0
+
+YAKE Keywords:
+
+company trust score  0.0
+scale of 0-100  0.01
+novo nordisk  0.01
+pharma sector  0.01
+trust score  0.01
+
+KEYBERT Keywords:
+
+trust unique novo  0.55
+nordisk trend pharma  0.57
+novo nordisk  0.57
+company trust score  0.61
+novo nordisk trend  0.64
+
+___________________________________________________________________________________
+
+Document:
+ lilly will never compromise on product quality, patient safety and business ethics: these are front and centre of risk management set-up . lilly is working to promote strong health, safety and environment (hse) practices with suppliers and manufacturers .
+
+RAKE Keywords:
+
+risk management set  9.0
+promote strong health  9.0
+product quality  4.0
+never compromise  4.0
+business ethics  4.0
+
+YAKE Keywords:
+
+risk management set-up  0.0
+promote strong health  0.0
+patient safety  0.01
+safety and environment  0.01
+product quality  0.01
+
+KEYBERT Keywords:
+
+patient safety business  0.52
+management set lilly  0.53
+quality patient safety  0.54
+hse practices suppliers  0.56
+safety environment hse  0.6
+
+___________________________________________________________________________________
+
+Document:
+ the safety of our consumers is and always has been our priority . we believe our patients and consumers deserve consistent, reliable and high quality every time they use or experience a johnson & johnson product . we partner with health authorities, government agencies and industry and advocacy groups to raise the bar on quality across the healthcare industry . the safety assurance process exceeds industry and regulatory standards for baby and skin health personal care products. we continuously evaluate ingredients used in our products and modify formulations, where relevant, in response to consumer preferences, advances in science and our own scientific research . read more about well-being at lilly in the labor section of this report .
+
+RAKE Keywords:
+
+consumers deserve consistent  8.0
+scientific research  4.0
+regulatory standards  4.0
+quality across  4.0
+modify formulations  4.0
+
+YAKE Keywords:
+
+process exceeds industry  0.0
+safety assurance process  0.0
+skin health personal  0.0
+health personal care  0.0
+assurance process exceeds  0.0
+
+KEYBERT Keywords:
+
+industry safety assurance  0.49
+baby skin health  0.49
+personal care products  0.5
+product partner health  0.51
+healthcare industry safety  0.54
+
+___________________________________________________________________________________
+
+Document:
+ a securities lawsuit was filed against novo nordisk in denmark by a number of institutional shareholders . the cure rate is 87.8% for patients treated with bedaquiline-containing regimens, based on the lancet respiratory medicine, volume 392, september 2018, pages 821-834 .
+
+RAKE Keywords:
+
+lancet respiratory medicine  9.0
+volume 392  4.0
+september 2018  4.0
+securities lawsuit  4.0
+patients treated  4.0
+
+YAKE Keywords:
+
+lancet respiratory medicine  0.0
+pages 821-834  0.01
+institutional shareholders  0.02
+bedaquiline-containing regimens  0.02
+respiratory medicine  0.02
+
+KEYBERT Keywords:
+
+shareholders cure rate  0.49
+novo nordisk denmark  0.56
+novo nordisk  0.62
+filed novo nordisk  0.65
+lawsuit filed novo  0.67
+
+___________________________________________________________________________________
+
+Document:
+ for many hcps who cannot travel for training, the johnson & johnson institute mobile lab, an 18-wheeler truck equipped with the latest in surgical simulation training, travels to them . the mobile lab teaches orthopaedic trauma, joint reconstruction, spine, spine and craniomaxillofacial procedures in a setting that simulates the operating room, offering participants hands-on experience with relevant instrumentation and techniques . lilly is also committing human capital as well, by engaging the president of lilly research labs and the companys top scientists in this effort . sanofi launched three new unbranded disease awareness campaigns, which improve opportunities for dialogue . our employees play an absolutely essential role in our future,
+
+RAKE Keywords:
+
+wheeler truck equipped  9.0
+offering participants hands  9.0
+companys top scientists  9.0
+absolutely essential role  9.0
+surgical simulation training  8.0
+
+YAKE Keywords:
+
+surgical simulation training  0.0
+teaches orthopaedic trauma  0.0
+offering participants hands-on  0.0
+disease awareness campaigns  0.0
+institute mobile lab  0.0
+
+KEYBERT Keywords:
+
+institute mobile lab  0.47
+labs companys  0.47
+disease awareness campaigns  0.49
+unbranded disease awareness  0.52
+lilly research labs  0.55
+
+___________________________________________________________________________________
+
+Document:
+ novartis has been ranked no. 7 in the dow jones sustainability index . the company has processes in place consistent with the international labour office (ilo) code of practice on recording and notification of occupational accidents and diseases .
+
+RAKE Keywords:
+
+international labour office  9.0
+place consistent  4.0
+occupational accidents  4.0
+recording  1.0
+ranked  1.0
+
+YAKE Keywords:
+
+jones sustainability index  0.05
+international labour office  0.05
+dow jones sustainability  0.08
+novartis  0.1
+sustainability index  0.12
+
+KEYBERT Keywords:
+
+ranked dow  0.44
+ranked dow jones  0.47
+novartis  0.56
+novartis ranked  0.67
+novartis ranked dow  0.78
+
+___________________________________________________________________________________
+
+Document:
+ roche is committed to promoting a safe and healthy workplace and environment for all our employees and to establish and maintain safe working practices . the company strives every day to conduct business in a safe . and environmentally responsible manner . roche introduced a new global program in march 2020 to enable our medically trained employees to volunteer time to aid their communities while maintaining their base pay . roche is so grateful to our employees who heeded the call to servethey exemplify our commitment to patients and to our mission to save and improve lives .
+
+RAKE Keywords:
+
+new global program  9.0
+environmentally responsible manner  9.0
+medically trained employees  7.67
+volunteer time  4.0
+servethey exemplify  4.0
+
+YAKE Keywords:
+
+safe working practices  0.0
+environmentally responsible manner  0.0
+maintain safe working  0.0
+medically trained employees  0.0
+roche introduced  0.0
+
+KEYBERT Keywords:
+
+roche introduced new  0.59
+roche committed  0.6
+responsible manner roche  0.63
+roche committed promoting  0.71
+roche grateful employees  0.71
+
+___________________________________________________________________________________
+
+Document:
+ astrazeneca one of the 2020 best places to work for lgbtq equality . novo nordisk aims to be an attractive employer that offers a safe and healthy, inclusive and engaging working environ- ment .
+
+RAKE Keywords:
+
+novo nordisk aims  9.0
+engaging working environ  9.0
+2020 best places  9.0
+lgbtq equality  4.0
+attractive employer  4.0
+
+YAKE Keywords:
+
+novo nordisk aims  0.0
+engaging working environ  0.0
+lgbtq equality  0.02
+novo nordisk  0.02
+safe and healthy  0.02
+
+KEYBERT Keywords:
+
+novo  0.55
+equality novo nordisk  0.59
+lgbtq equality novo  0.63
+novo nordisk  0.7
+novo nordisk aims  0.73
+
+___________________________________________________________________________________
+
+Document:
+ lilly has a long-standing policy of not seeking or enforcing patents for medicines in any of the least developed countries . lilly also supports efforts to decrease the final price of medicines to patients . lilly launched esperoct and are accelerating launches to new markets .
+
+RAKE Keywords:
+
+least developed countries  9.0
+lilly launched esperoct  8.0
+standing policy  4.0
+new markets  4.0
+final price  4.0
+
+YAKE Keywords:
+
+lilly launched esperoct  0.0
+developed countries  0.01
+lilly launched  0.02
+long-standing policy  0.02
+seeking or enforcing  0.02
+
+KEYBERT Keywords:
+
+patents medicines  0.57
+enforcing patents medicines  0.59
+medicines patients lilly  0.61
+patients lilly launched  0.62
+lilly launched esperoct  0.71
+
+___________________________________________________________________________________
+
+Document:
+ starting in 2020 the new tool will enable development teams to score (and improve) product design and performance at each stage of the product life cycle, with respect to important business, sustainability and product stewardship objectives . from early discovery, through drug development and while a drug is on the market, lilly works to ensure the safe and effective use of its medicine . the company's approach is based on science and a lifecycle accountability for product impactsfrom discovery and design, raw material sourcing and manufacturing to product use and end of life. we are committed to developing more sustainable products that contribute to a healthier planet.
+
+RAKE Keywords:
+
+raw material sourcing  9.0
+product stewardship objectives  8.6
+enable development teams  8.5
+product impactsfrom discovery  8.1
+product life cycle  7.6
+
+YAKE Keywords:
+
+raw material sourcing  0.0
+enable development teams  0.0
+product life cycle  0.0
+product stewardship objectives  0.0
+product impactsfrom discovery  0.0
+
+KEYBERT Keywords:
+
+business sustainability product  0.56
+sustainability product  0.56
+sustainable products  0.56
+product impactsfrom discovery  0.57
+developing sustainable products  0.59
+
+___________________________________________________________________________________
+
+Document:
+ sales of novoseven increased by 3% measured in danish kroner, and remained unchanged at cer, to dkk 8,119 million . strong uptake ofmedicines introduced since 2012 generated chf5.4billion in growth, more than offsetting the impact of the competition from biosimilars for mabthera/rituxan, herceptin and avastin in the us (estimated decline chf0.3billion) sales in the pharmaceuticals division increased by 11% to chf 48.5 billion . by 2022 around 70% of our sales will come from new products .
+
+RAKE Keywords:
+
+estimated decline chf0  9.0
+2022 around 70  9.0
+pharmaceuticals division increased  8.5
+novoseven increased  4.5
+remained unchanged  4.0
+
+YAKE Keywords:
+
+strong uptake ofmedicines  0.0
+pharmaceuticals division increased  0.0
+uptake ofmedicines introduced  0.0
+estimated decline  0.01
+measured in danish  0.01
+
+KEYBERT Keywords:
+
+3billion sales pharmaceuticals  0.56
+pharmaceuticals division increased  0.57
+novoseven increased  0.59
+novoseven increased measured  0.59
+sales novoseven increased  0.69
+
+___________________________________________________________________________________
+
+Document:
+ our human rights practices are informed and guided by the pharmaceutical supply chain initiatives (pscis) pharmaceutical industry principles for responsible supply chain management . the novartis third-party code (for- merly the supplier code) sets out our expectations for our third parties . at lilly, we have aligned several codes, policies and procedures with the psci principles, including the following: organization and policy . we have a supply chain continuity plan in place that applies in priority to vital medicines and new products, and to pandemics and other major crises . we are committed to making our contraceptive products available to women around the world .
+
+RAKE Keywords:
+
+human rights practices  9.0
+aligned several codes  9.0
+pharmaceutical industry principles  8.5
+contraceptive products available  8.5
+psci principles  4.5
+
+YAKE Keywords:
+
+supply chain initiatives  0.0
+supply chain management  0.0
+novartis third-party code  0.0
+supply chain continuity  0.0
+responsible supply chain  0.0
+
+KEYBERT Keywords:
+
+pharmaceutical supply  0.58
+chain initiatives pscis  0.59
+initiatives pscis pharmaceutical  0.6
+pscis pharmaceutical industry  0.6
+pharmaceutical supply chain  0.65
+
+___________________________________________________________________________________
+
+Document:
+ each bottle of le petit marseillais mon gel douche concentr is recyclable, uses 60% less plastic and requires 40% less water . lilly re cycle approximately 80% of all non-hazardous waste and continue to max-imize opportunities for reuse and recy- cling .
+
+RAKE Keywords:
+
+cycle approximately 80  9.0
+uses 60  4.0
+requires 40  4.0
+less water  4.0
+less plastic  4.0
+
+YAKE Keywords:
+
+petit marseillais mon  0.0
+marseillais mon gel  0.0
+mon gel douche  0.0
+gel douche concentr  0.0
+concentr is recyclable  0.01
+
+KEYBERT Keywords:
+
+gel douche concentr  0.55
+recyclable uses  0.56
+concentr recyclable  0.62
+concentr recyclable uses  0.63
+douche concentr recyclable  0.75
+
+___________________________________________________________________________________
+
+Document:
+ novartis believes climate change could present risks to its business . the world health organization expects that between 2030 and 2050, climate change will lead to nearly 250,000 additional deaths each year . the direct effects of climate change include increased heat-related stress, floods, droughts, and extreme weather events such as hurricanes .
+
+RAKE Keywords:
+
+extreme weather events  9.0
+000 additional deaths  9.0
+related stress  4.0
+nearly 250  4.0
+direct effects  4.0
+
+YAKE Keywords:
+
+increased heat-related stress  0.0
+world health organization  0.0
+health organization expects  0.0
+include increased heat-related  0.0
+extreme weather events  0.0
+
+KEYBERT Keywords:
+
+2030 2050 climate  0.62
+effects climate  0.63
+novartis believes climate  0.63
+effects climate change  0.66
+2050 climate change  0.67
+
+___________________________________________________________________________________
+
+Document:
+ dr christoph franz was re-elected as chairman of the board of directors at roche holding ltd's agm on 5 march 2019 . roche's gender balance board consists of 10 senior executives (5 women and 5 men), 4 of whom are executive committee members . pascal soriot and leif johansson plant the first trees of a 25 million tree re-forestation programme in australia . the ceo of novo nordisk a/s: "i am confident that we have a solid formula for delivering on our purpose, contributing to global sustainable development and sustaining commercial success. i also want to thank our shareholders and all our other stakeholders for their continued support"
+
+RAKE Keywords:
+
+sustaining commercial success  9.0
+leif johansson plant  9.0
+global sustainable development  9.0
+executive committee members  9.0
+dr christoph franz  9.0
+
+YAKE Keywords:
+
+million tree re-forestation  0.0
+executive committee members  0.0
+sustaining commercial success  0.0
+roche gender balance  0.0
+gender balance board  0.0
+
+KEYBERT Keywords:
+
+australia ceo novo  0.52
+directors roche holding  0.54
+directors roche  0.55
+ceo novo nordisk  0.56
+board directors roche  0.6
+
+___________________________________________________________________________________
+
+Document:
+ in 2019, 34 business ethics reviews were completed with 87 findings, compared with 33 re- views with 113 findings in 2018 . 99% of all relevant employees completed and documented their training . management action plans and closure of findings progressed as planned, and there were no overdue management actions or findings at the end of the year . compliance programmes address ad- herence, such as the business ethics compliance framework, supported by due diligence, standard procedures and training to ensure compliance with laws, international standards and regulations . annual business ethics training is required for all employees, includ- ing new hires . training in business ethics is mandatory and a key element of the onboarding programmes .
+
+RAKE Keywords:
+
+overdue management actions  9.0
+management action plans  9.0
+ing new hires  9.0
+relevant employees completed  7.0
+standard procedures  4.0
+
+YAKE Keywords:
+
+annual business ethics  0.0
+management action plans  0.0
+overdue management actions  0.0
+business ethics reviews  0.0
+ethics compliance framework  0.0
+
+KEYBERT Keywords:
+
+ethics training required  0.71
+ethics training  0.71
+business ethics compliance  0.76
+training business ethics  0.78
+business ethics training  0.81
+
+___________________________________________________________________________________
+
+Document:
+ sales of long-acting insulin remained unchanged in danish kroner and decreased by 4% at cer to dkk 20,776 million . novo nordisk has improved its global volume market share in insulin from 31.6% to 32.4% in the last 12 months . at lilly, we consider country-specific conditions when pricing medicines on a market-by-market basis, to help ensure patients have affordable access to innovative medications we develop . astrazeneca and lascenseur are developing the first collaborative cross-association programme to enrich its pipeline of young talented people from various origins and backgrounds .
+
+RAKE Keywords:
+
+young talented people  9.0
+last 12 months  9.0
+help ensure patients  9.0
+first collaborative cross  9.0
+various origins  4.0
+
+YAKE Keywords:
+
+global volume market  0.0
+volume market share  0.0
+collaborative cross-association programme  0.0
+young talented people  0.0
+long-acting insulin remained  0.0
+
+KEYBERT Keywords:
+
+share insulin 31  0.58
+medicines market  0.58
+pricing medicines market  0.6
+share insulin  0.61
+market share insulin  0.71
+
+___________________________________________________________________________________
+
+Document:
+ the democratic republic of congo granted marketing approval for fexinidazole in december 2018 . there is increased pressure for companies to adopt the eu general data protection regulation compliance (gdpr) novartis recognizes societys increas- ing expectations of our industry and our company .
+
+RAKE Keywords:
+
+ing expectations  4.0
+increased pressure  4.0
+democratic republic  4.0
+december 2018  4.0
+industry  1.0
+
+YAKE Keywords:
+
+protection regulation compliance  0.0
+novartis recognizes societys  0.0
+recognizes societys increas  0.0
+congo granted marketing  0.0
+granted marketing approval  0.0
+
+KEYBERT Keywords:
+
+gdpr novartis  0.52
+compliance gdpr novartis  0.54
+approval fexinidazole december  0.64
+approval fexinidazole  0.65
+marketing approval fexinidazole  0.71
+
+___________________________________________________________________________________
+
+Document:
+ lilly is mobilizing resources to launch a multi-pronged response to the early spread of covid-19 in late 2019 . we are providing up to 200,000 investigational ebola vaccine regimens (which has been conditionally approved in rwanda) to support a new immunization program led by the government of rwanda . sanofi has implemented a sophisticated real-time monitoring tool that alerts management as soon as possible after an accident has occurred, and tracks frequency rates . we have a supply chain continuity plan in place that applies in priority to vital medicines and new products, and to pandemics and other major crises . we stand ready to respond rapidly and efficiently to potential future outbreaks of .
+
+RAKE Keywords:
+
+tracks frequency rates  9.0
+time monitoring tool  9.0
+potential future outbreaks  9.0
+vital medicines  4.0
+stand ready  4.0
+
+YAKE Keywords:
+
+investigational ebola vaccine  0.0
+ebola vaccine regimens  0.0
+tracks frequency rates  0.0
+immunization program led  0.0
+sophisticated real-time monitoring  0.0
+
+KEYBERT Keywords:
+
+000 investigational ebola  0.52
+investigational ebola vaccine  0.52
+future outbreaks  0.52
+ebola vaccine  0.53
+ebola vaccine regimens  0.59
+
+___________________________________________________________________________________
+
+Document:
+ the fda granted priority review for risdiplam for sma . sma achieved key motor milestones after one year oftreatment with the investigational molecule . the roche group has established a risk management process covering the entire company .
+
+RAKE Keywords:
+
+one year oftreatment  9.0
+roche group  4.0
+investigational molecule  4.0
+entire company  4.0
+sma  1.0
+
+YAKE Keywords:
+
+fda granted priority  0.0
+granted priority review  0.0
+achieved key motor  0.0
+key motor milestones  0.0
+risk management process  0.0
+
+KEYBERT Keywords:
+
+risdiplam sma sma  0.53
+risdiplam sma  0.54
+fda granted priority  0.55
+priority review risdiplam  0.61
+review risdiplam sma  0.69
+
+___________________________________________________________________________________
+
